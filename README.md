@@ -1,4 +1,4 @@
-# Boucles - TP1
+# Boucles - TP1 - Les étoiles
 
 ## Consignes
 
